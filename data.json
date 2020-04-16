@@ -1,0 +1,37 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "Divide a long list into a series of pages and improve the user experience of a web page.",
+            "technologies": ["JavaScript", "DOM manipulation"],
+            "live_link": "https://yuttting.github.io/Project_Pagination/",
+            "github_link": "https://github.com/Yuttting/Project2_Pagination",
+            "image_urls": ["/images/pagination_550x550", "/images/pagination_1200x550"]
+        },{
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        }, {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        }, {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        }
+    ]
+}
