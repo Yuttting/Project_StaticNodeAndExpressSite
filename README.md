@@ -6,4 +6,4 @@ h5 & p: font-family: 'Roboto', sans-serif;
 
 box: border-radius: 5px
 
-project images: scale(1.01)
+project images when hover: scale(1.01)
