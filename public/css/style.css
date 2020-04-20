@@ -1,6 +1,7 @@
 .err {
   margin-left: 10px;
 }
+
 .scale:hover {
   transform: scale(1.01);
   margin-bottom: 10px;
