@@ -3,35 +3,35 @@
         {
             "id": 1,
             "project_name": "List Pagination and Filtering",
-            "description": "Divide a long list into a series of pages and improve the user experience of a web page.",
+            "description": "I wrote JavaScript to divide a long list into a series of pages, and add a navigation system to let users click through the other student entries, 10 at a time. I also added search functionality to improve the user experience.",
             "technologies": ["JavaScript", "DOM manipulation"],
             "live_link": "https://yuttting.github.io/Project_Pagination/",
             "github_link": "https://github.com/Yuttting/Project2_Pagination",
-            "image_urls": ["/images/pagination_550x550", "/images/pagination_1200x550"]
+            "image_urls": ["/static/images/pagination_550x550.png", "/static/images/pagination1.png", "/static/images/pagination_1200x550.png"]
         },{
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "",
-            "technologies": "",
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "description": "I use JavaScript to enhance an interactive registration form for a fictional conference.",
+            "technologies": ["JavaScript", "Web forms", "Checkbox", "Form validation"],
+            "live_link": "https://yuttting.github.io/Project_InteractiveForm/",
+            "github_link": "https://github.com/Yuttting/Project_InteractiveForm",
+            "image_urls": ["/static/images/form0.png", "/static/images/form1.png", "/static/images/form2.png"]
         }, {
             "id": 3,
-            "project_name": "OOP Game Show App",
-            "description": "",
-            "technologies": "",
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "project_name": "Game: Phrase Hunter",
+            "description": " I created a browser-based, word guessing game: Phrase Hunter. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking/typing letters on keyboard.",
+            "technologies": ["JavaScript", "Object-Oriented Programming"],
+            "live_link": "https://yuttting.github.io/Project_OOPGameShowApp/",
+            "github_link": "https://github.com/Yuttting/Project_OOPGameShowApp",
+            "image_urls": ["/static/images/game0.png", "/static/images/game1.png", "/static/images/game2.png"]
         }, {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "",
-            "technologies": "",
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "description": "I built an app for a fictional company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used the Random User Generator API to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.",
+            "technologies": ["JavaScript", "jQuery", "Public APIs"],
+            "live_link": "https://yuttting.github.io/Project_PublicAPIRequests/",
+            "github_link": "https://github.com/Yuttting/Project_PublicAPIRequests",
+            "image_urls": ["/static/images/publicAPI0.png", "/static/images/publicAPI1.png", "/static/images/publicAPI2.png"]
         }
     ]
 }
